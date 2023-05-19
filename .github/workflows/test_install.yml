@@ -64,7 +64,7 @@ jobs:
           python-version: ${{ matrix.python }}
       - name: 👷 Build and install latest release
         run: |
-          pip install https://github.com/OctoPrint/OctoPrint/archive/${{ env.OCTOPRINT_VERSION }}.zip
+          pip install https://github.com/FracktalWorks/OctoPrint_BQ/archive/${{ env.OCTOPRINT_VERSION }}.zip
       - name: 📧 Discord success notification
         continue-on-error: true
         env:

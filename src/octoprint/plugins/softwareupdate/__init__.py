@@ -665,10 +665,10 @@ class SoftwareUpdatePlugin(
             "checks": {
                 "octoprint": {
                     "type": "github_release",
-                    "user": "foosel",
-                    "repo": "OctoPrint",
+                    "user": "Fracktal Works",
+                    "repo": "OctoPrint_BQ",
                     "method": "pip",
-                    "pip": "https://github.com/OctoPrint/OctoPrint/archive/{target_version}.zip",
+                    "pip": "https://github.com/FracktalWorks/OctoPrint_BQ/archive/{target_version}.zip",
                     "update_script": default_update_script,
                     "restart": "octoprint",
                     "stable_branch": {

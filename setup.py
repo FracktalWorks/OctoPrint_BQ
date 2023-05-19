@@ -246,8 +246,8 @@ def params():
 
     project_urls = {
         "Community Forum": "https://community.octoprint.org",
-        "Bug Reports": "https://github.com/OctoPrint/OctoPrint/issues",
-        "Source": "https://github.com/OctoPrint/OctoPrint",
+        "Bug Reports": "https://github.com/FracktalWorks/OctoPrint_BQ/issues",
+        "Source": "https://github.com/FracktalWorks/OctoPrint_BQ",
         "Funding": "https://support.octoprint.org",
     }
 

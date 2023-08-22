@@ -665,7 +665,7 @@ class SoftwareUpdatePlugin(
             "checks": {
                 "octoprint": {
                     "type": "github_release",
-                    "user": "Fracktal Works",
+                    "user": "FracktalWorks",
                     "repo": "OctoPrint_BQ",
                     "method": "pip",
                     "pip": "https://github.com/FracktalWorks/OctoPrint_BQ/archive/{target_version}.zip",
